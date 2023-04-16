@@ -8,8 +8,13 @@ const RESOURCES = {
 "assets/assets/fonts/OMORI_GAME2.ttf": "0574b64c74380bd82d699fe95824ed65",
 "assets/FontManifest.json": "32c2c36f770f1a9c97ba75b440d91b5b",
 "assets/NOTICES": "d419444031598d464a6243cbd95c1e20",
-"index.html": "77daa2611c04d0c0d988a103870e369b",
-"/": "77daa2611c04d0c0d988a103870e369b",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"index.html": "fcd5a06e2adf7dcab8152bce99077e09",
+"/": "fcd5a06e2adf7dcab8152bce99077e09",
 "main.dart.js": "c96d4166025c7ffcfa862de70044b4fa",
 "version.json": "66fd02054560bf58d91703df76bb7105"
 };
