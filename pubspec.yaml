@@ -21,7 +21,8 @@ flutter:
   uses-material-design: false
 
   assets:
-    - assets/
+    - assets/images/
+    - assets/images/blackkeys/
 
   fonts:
     - family: GameFont
