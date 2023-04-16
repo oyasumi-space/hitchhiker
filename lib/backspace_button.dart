@@ -24,7 +24,7 @@ class BackSpaceButton extends ConsumerWidget {
         child: SizedBox(
           width: 36,
           height: 36,
-          child: Image.asset('images/bs.png'),
+          child: Image.asset('assets/images/bs.png'),
         ),
       ),
     );

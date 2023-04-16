@@ -8,7 +8,7 @@ class BlackKey extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Image.asset(
-      'images/blackkeys/$alphabet.png',
+      'assets/images/blackkeys/$alphabet.png',
     );
   }
 }

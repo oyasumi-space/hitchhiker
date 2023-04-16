@@ -35,10 +35,15 @@ const RESOURCES = {
 "assets/assets/images/bs.png": "0f2f3c4271d6e652085bf9154638b64d",
 "assets/FontManifest.json": "32c2c36f770f1a9c97ba75b440d91b5b",
 "assets/NOTICES": "d419444031598d464a6243cbd95c1e20",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "CNAME": "c53811cfdc36289d892acb232a207a68",
-"index.html": "0fff6c1f06b7a3367f873a24c9beb16a",
-"/": "0fff6c1f06b7a3367f873a24c9beb16a",
-"main.dart.js": "c96d4166025c7ffcfa862de70044b4fa",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"index.html": "7006008b6599e3ffc6add4b598210743",
+"/": "7006008b6599e3ffc6add4b598210743",
+"main.dart.js": "84033ad9c2f0fe330f67d985ec327228",
 "version.json": "66fd02054560bf58d91703df76bb7105"
 };
 

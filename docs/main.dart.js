@@ -49813,7 +49813,7 @@ A.CR.prototype={
 V(a){return new A.pU(B.w0,"Entrance",A.a8S(null,"GameFont",null),null)}}
 A.vv.prototype={
 ta(a,b){var s=null
-return A.R7(A.a4d(s,A.mC(A.a7v("images/bs.png"),36,36),!1,s,s,s,s,s,new A.JN(b),s,s,s),B.iA,s,s)}}
+return A.R7(A.a4d(s,A.mC(A.a7v("assets/images/bs.png"),36,36),!1,s,s,s,s,s,new A.JN(b),s,s,s),B.iA,s,s)}}
 A.JN.prototype={
 $0(){var s=$.a3z().guq().v1(0,A.An(this.a,!1)),r=J.dV(s)
 r.wN(s,new A.JM().$1(A.iV.prototype.gkj.call(r,s)))},
@@ -49824,7 +49824,7 @@ if(s===0)return a
 return B.c.P(a,0,s-1)},
 $S:46}
 A.ob.prototype={
-V(a){return A.a7v("images/blackkeys/"+this.c+".png")}}
+V(a){return A.a7v("assets/images/blackkeys/"+this.c+".png")}}
 A.vA.prototype={
 ta(a,b){var s=null
 return A.R7(A.a4d(s,A.mC(new A.ob(this.e,s),36,36),!1,s,s,s,s,s,new A.JT(this,b),s,s,s),B.iA,s,s)}}
