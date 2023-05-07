@@ -8,7 +8,7 @@ class Hint extends StatelessWidget {
     return Column(
       children: const [
         Text(
-          'What\'s the food the Sun said?',
+          'What\'s the food the Sun said?aaa',
           style: TextStyle(
             color: Colors.white,
             fontSize: 32,
