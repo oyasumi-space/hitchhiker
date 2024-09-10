@@ -11,9 +11,9 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.black,
-      child: Column(
+      child: const Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        children: const [
+        children: [
           Hint(),
           SizedBox(height: 32),
           Display(),

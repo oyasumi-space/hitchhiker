@@ -18,7 +18,8 @@ class BlackKeyButton extends ConsumerWidget {
           var state = ref.read(displayProvider.notifier).state;
           state += alphabet;
           if (state == 'pizza') {
-            await launchUrlString('https://oyasumi.space/invite/EFktq6Up');
+            await launchUrlString(
+                const String.fromEnvironment('HITCHHIKER_URL'));
           }
           if (state.length <= 10) {
             ref.read(displayProvider.notifier).state = state;
